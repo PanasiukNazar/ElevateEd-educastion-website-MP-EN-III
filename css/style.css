@@ -1699,8 +1699,7 @@ h5,
 }
 .ftco-cover-1,
 .ftco-cover-1 .container > .row {
-    height: 100vh;
-    min-height: 600px;
+    min-height: 670px;
 }
 .ftco-cover-1 > .container {
     position: relative;
